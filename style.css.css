@@ -134,42 +134,42 @@ width: 100%;
     word-spacing: 8px;
     bottom: 100px;
 }
-.logo-1{
+.face{
     position: relative;
-    left: 700px;
+    left: 800px;
     bottom: 430px;
-    width: 600px;
+    width: 400px;
 }
 
 .dropdown{
     position: relative;
-    bottom: 1015px;
+    bottom: 1115px;
     left: 230px;
 }
 .paragraph{
     font-size: large;
     position: relative;
-    bottom: 80px;
+    bottom: 90px;
     left: 90px;
 }
 .paragraph-1{
     position: relative;
-    bottom: 630px;
+    bottom: 700px;
     left: 90px;
 }
 .paragraph-2{
     position: relative;
-    bottom: 670px;
+    bottom: 740px;
     left: 235px;
 }
 .paragraph-3{
     position: relative;
-    bottom: 710px;
+    bottom: 780px;
     left: 350px;
 }
 .btn-danger{
     position: relative;
-    bottom: 705px;
+    bottom: 766px;
     left: 90px;
     background-color: lightpink;
     border-color:lightpink;
@@ -177,14 +177,14 @@ width: 100%;
 }
 .fa-circle-play{
     position: relative;
-    bottom: 700px;
+    bottom: 760px;
     left: 100px;
     font-size:30px;
     color: blue;
 }
 .Watch{
     position: relative;
-    bottom: 740px;
+    bottom: 800px;
     left: 250px;
 }
 .one{
